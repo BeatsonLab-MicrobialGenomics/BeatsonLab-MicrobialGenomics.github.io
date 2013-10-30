@@ -18,7 +18,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('GitHub', 'https://github.com/organizations/BeatsonLab-MicrobialGenomics'),
-        ('SCMB@UQ', 'http://staff.scmb.uq.edu.au/staff/scott-beatson'),)
+        ('SCMB@UQ', 'http://staff.scmb.uq.edu.au/staff/beatson'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
