@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>People - Beatson Microbial Genomics Lab</title>
+    <title>What not to do in Python when working with Big Data - Beatson Microbial Genomics Lab</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -13,9 +13,12 @@
                             <!-- Open Graph tags -->
                 <meta property="og:site_name" content="Beatson Microbial Genomics Lab" />
                     <meta property="og:type" content="article"/>
-            <meta property="og:title" content="People"/>
-            <meta property="og:url" content="/pages/people.html"/>
-            
+            <meta property="og:title" content="What not to do in Python when working with Big Data"/>
+            <meta property="og:url" content="/bad-with-big-data.html"/>
+            <meta property="og:description" content="Don't do this with a big data file"/>
+            <meta property="article:published_time" content="2013-06-16" />
+                        <meta property="article:section" content="programming" />
+                                    
     <!-- Bootstrap -->
             <link rel="stylesheet" href="/theme/css/bootstrap.yeti.min.css" type="text/css"/>
         <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
@@ -74,7 +77,7 @@
                                                <li><a href="/pages/.html">
                              
                           </a></li>
-                                               <li class="active"><a href="/pages/people.html">
+                                               <li><a href="/pages/people.html">
                              People
                           </a></li>
                                                <li><a href="/pages/publications.html">
@@ -86,7 +89,7 @@
                                                <li><a href="/pages/software.html">
                              Software
                           </a></li>
-                                                                                                  <li >
+                                                                                                  <li class="active">
                             <a href="/category/programming.html">Programming</a>
                         </li>
                                                 </ul>
@@ -102,55 +105,52 @@
     <div class="row">
                 <div class="col-sm-9">
                     
-            <section id="content" class="body">
-        <h1 class="entry-title">People</h1>
-                
-                <div class="entry-content">
-            <div class="section" id="group-leader">
-<h2>Group Leader</h2>
-<p>Scott Beatson</p>
-</div>
-<div class="section" id="current-group-members-staff">
-<h2>Current group members (staff)</h2>
-<p>Nouri Ben Zakour (Postdoctoral fellow)</p>
-<p>Mitchell Stanton-Cook (BioIT specialist)</p>
-<p>Brian Forde (Postdoctoral fellow)</p>
-<p>Anne Senabouth (Research Assistant)</p>
-</div>
-<div class="section" id="phd-candidates">
-<h2>PhD candidates</h2>
-<p>Kirstin Thomson (PhD candidate)</p>
-<p>Nabil Alikhan (PhD candidate)</p>
-<p>Mitchell Sullivan (PhD candidate)</p>
-<p>Bryan Wee (PhD candidate)</p>
-</div>
-<div class="section" id="honours-students">
-<h2>Honours students</h2>
-<p>Leah Roberts</p>
-</div>
-<div class="section" id="volunteers">
-<h2>Volunteers</h2>
-<p>Chad Boga (Masters coursework student)</p>
-</div>
-<div class="section" id="former-group-members">
-<h2>Former group members</h2>
-<p>Melinda Ashcroft (Summer research scholar)</p>
-<p>Leah Roberts (Summer research scholar)</p>
-<p>Hitesh Arora (Summer research scholar)</p>
-<p>Nathan Bachmann (PhD candidate)</p>
-<p>Nicola Petty (Postdoctoral fellow)</p>
-<p>Patrick Gawthorne (IT Support)</p>
-<p>Jan Szubert (Postdoctoral fellow)</p>
-</div>
-<div class="section" id="past-visitors">
-<h2>Past visitors</h2>
-<p>Lauren Cowley</p>
-<p>Majed Al Ghoribi</p>
-<p>David Gally</p>
-</div>
+            <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/bad-with-big-data.html"
+                       rel="bookmark"
+                       title="Permalink to What not to do in Python when working with Big Data">
+                        What not to do in Python when working with Big Data
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+                        <footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2013-06-16T01:50:00"> Sun 16 June 2013</time>
+    </span>
+                    
+            
+    
+            
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>Please do not do this If you're developing software that is working with big
+data files:</p>
+<pre class="code python literal-block">
+<span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s">&quot;really_big_fucking_file.dat&quot;</span><span class="p">)</span>
+<span class="n">lines</span> <span class="o">=</span> <span class="n">f</span><span class="o">.</span><span class="n">readlines</span><span class="p">()</span>
+<span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">lines</span><span class="p">:</span>
+    <span class="n">do_something</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+<span class="n">f</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre>
+<p>Please do this:</p>
+<pre class="code python literal-block">
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">&quot;really_big_fucking_file.dat&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">f</span><span class="p">:</span>
+        <span class="n">do_something</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+</pre>
 
-        </div>
+            </div>
+            <!-- /.entry-content -->
+                                            </article>
     </section>
+
         </div>
 		        <div class="col-sm-3 well well-sm" id="sidebar">
                 
