@@ -39,6 +39,7 @@ Quickstart
     $ cd !$
     $ git clone git@github.com:BeatsonLab-MicrobialGenomics/BeatsonLab-MicrobialGenomics.github.io.git
     $ cd BeatsonLab-MicrobialGenomics.github.io
+    $ # !!!!! Answer y !!!!!
     $ git remote update
     $ git pull --all
 
