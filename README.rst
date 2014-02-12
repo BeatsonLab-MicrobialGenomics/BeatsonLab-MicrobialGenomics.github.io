@@ -8,26 +8,24 @@ Quickstart
 
 1) Install git!
 
-2) Make sure you have python 2.7 installed::
+2) Make sure you have python 2.7.* installed::
     
     $ python --version
 
 
 3) Install virtualenv burrito::
     
-    $ curl -s
-    https://raw.github.com/brainsik/virtualenv-burrito/master/virtualenv-burrito.sh
-    | $SHELL
+    $ curl -s https://raw.github.com/brainsik/virtualenv-burrito/master/virtualenv-burrito.sh | $SHELL
 
 
 4) Make a virtualenv:: 
 
-    $ mkvirtualenv LabWebsite
+    $ mkvirtualenv pelican
 
 
 5) Activate virtualenv::
     
-    workon LabWebsite
+    workon pelican
 
 
 6) Install autoenv::
@@ -39,8 +37,7 @@ Quickstart
     
     $ mkdir ~/REPOS
     $ cd !$
-    $ git clone
-    $ git@github.com:BeatsonLab-MicrobialGenomics/BeatsonLab-MicrobialGenomics.github.io.git
+    $ git clone git@github.com:BeatsonLab-MicrobialGenomics/BeatsonLab-MicrobialGenomics.github.io.git
     $ cd BeatsonLab-MicrobialGenomics.github.io
     $ git remote update
     $ git pull --all
@@ -59,7 +56,4 @@ Quickstart
     
     $ cd ~/REPOS/BeatsonLab-MicrobialGenomics.github.io
     $ fab publish
-
-
-
 
