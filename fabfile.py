@@ -28,7 +28,9 @@ def generate():
     """
     loc = get_fab_script_location()
     os.chdir(loc)
+    os.system("python get_publications.py") 
     os.system("make html")
+    os.system("cp CNAME output")
     return loc
 
 @task
