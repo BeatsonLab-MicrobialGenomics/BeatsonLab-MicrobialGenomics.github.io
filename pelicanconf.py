@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 import os
 
-AUTHOR = u'Mitchell Stanton-Cook'
-SITENAME = u'Beatson Lab'
+AUTHOR = u'Beatson Group'
+SITENAME = u'Beatson Microbial Genomics Lab'
 SITEURL = ''
 
 TIMEZONE = 'Australia/Brisbane'
@@ -17,25 +17,31 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('GitHub', 'https://github.com/organizations/BeatsonLab-MicrobialGenomics'),
+LINKS =  (('Code on GitHub', 'https://github.com/organizations/BeatsonLab-MicrobialGenomics'),
         ('SCMB@UQ', 'http://staff.scmb.uq.edu.au/staff/beatson'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ''
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 3
 
-THEME = os.path.expanduser("~/3rd-repos/pelican-themes/chunk")
+THEME = os.path.expanduser("/home/mscook/REPOS/BeatsonLab-MicrobialGenomics.github.io/themes/pelican-bootstrap3")
+FAVICON = 'images/favicon.png'
 SITESUBTITLE = 'Microbial Genomics Laboratory'
-FOOTER_TEXT = '(c) 2013 Beatson Microbial Genomics Laboratory'
+FOOTER_TEXT = '(c) 2013-2014 Beatson Microbial Genomics Laboratory'
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
+#Tweak visually
+DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
+DISPLAY_TAGS_ON_SIDEBAR = False
+#MENUITEMS = 'Publications'
 
-GITHUB_URL = 'http://github.com/BeatsonLab-MicrobialGenomics'
+# Theme specific options for GitHub
+GITHUB_USER = 'BeatsonLab-MicrobialGenomics'
+GITHUB_REPO_COUNT = 3
+GITHUB_SKIP_FORK = True
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+#Theme specific - Use bootswatch themes
+BOOTSTRAP_THEME='yeti'
