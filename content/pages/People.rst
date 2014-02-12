@@ -61,7 +61,7 @@ Hitesh Arora (Summer research scholar)
 
 Nathan Bachmann (PhD candidate)
 
-Nicola Petty (Postdoctoral fellow)
+`Nicola Petty`_ (Postdoctoral fellow)
 
 Anna Sze Tai (PhD candidate)
 
@@ -77,4 +77,16 @@ Lauren Cowley
 
 Majed Al Ghoribi
 
-David Gally
+`David Gally`_
+
+`Mat Upton`_
+
+`Ian Henderson`_
+
+`Nick Loman`_
+
+.. _`David Gally`: http://www.roslin.ed.ac.uk/david-gally/
+.. _`Mat Upton`: http://www.plymouth.ac.uk/staff/mupton
+.. _`Ian Henderson`: http://www.birmingham.ac.uk/staff/profiles/iandi/henderson-ian.aspx
+.. _`Nick Loman`: http://pathogenomics.bham.ac.uk/clinicogenomics/
+.. _`Nicola Petty`: http://www.uts.edu.au/staff/nicola.petty
