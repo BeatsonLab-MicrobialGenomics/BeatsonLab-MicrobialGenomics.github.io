@@ -25,10 +25,16 @@ between bacteria?" to the identification of potential diagnostic and vaccine
 targets and the development of software tools to enable integrated analysis of 
 100’s or 1000’s of bacterial genomes. 
 
-The Beatson group work closely with other local and international molecular 
-microbiologists and clinicians particularly Prof Mark Schembri (UQ), 
-Prof Mark Walker (UQ), Prof Elizabeth Hartland (UMel), Dr Mat Upton 
-(Manchester), Prof Ian Henderson (Birmingham) and Prof David Gally (Edinburgh).
+**Collaborations:**
+
+*National:* Prof Mark Schembri (UQ), Prof Mark Walker (UQ), A/Prof Andrew 
+Barnes (UQ), Dr Mark Turner (UQ), A/Prof Glen Ulett (Griffith), Dr Kari Gobius 
+(CSIRO), Prof David Paterson (UQ), A/Prof Scott Bell (QHealth), A/Prof Claire 
+Wainwright (QHealth), Prof Elizabeth Hartland (UMel).  
+
+*International:* Dr Mat Upton (Manchester), Prof David Gally (Edinburgh), 
+Dr Andrew Roe (Glasgow), Prof Tim Walsh (Cardiff), 
+Prof Ian Henderson (Birmingham).
 
 **Read more about our research in our** blog_.
 
