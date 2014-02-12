@@ -7,5 +7,6 @@ output/
 *.swp
 *.out
 *.py[cod]
-output
 .idea/*
+pelican.pid
+srv.pid
