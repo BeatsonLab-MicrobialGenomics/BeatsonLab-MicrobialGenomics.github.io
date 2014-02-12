@@ -25,7 +25,8 @@ SOCIAL = ''
 
 DEFAULT_PAGINATION = 3
 
-THEME = os.path.expanduser("/home/mscook/REPOS/BeatsonLab-MicrobialGenomics.github.io/themes/pelican-bootstrap3")
+CWD = os.getcwd()
+THEME = os.path.join(CWD, "BeatsonLab-MicrobialGenomics.github.io/themes/pelican-bootstrap3")
 FAVICON = 'images/favicon.png'
 SITESUBTITLE = 'Microbial Genomics Laboratory'
 FOOTER_TEXT = '(c) 2013-2014 Beatson Microbial Genomics Laboratory'
