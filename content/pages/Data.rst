@@ -10,10 +10,16 @@ Complete Genomes
 Escherichia coli O25b:H4-ST131 str. EC958 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+
 Following is available:
-    * EC958 complete genome
-    * pEC958 plasmid 1
-    * pEC958B plasmid 2
+    * `EC958 complete genome`_
+    * `pEC958 plasmid 1`_
+    * `pEC958B plasmid 2`_
+
+.. _`EC958 complete genome`: ../static/downloads/EC958.chromosome.v14.embl
+.. _`pEC958 plasmid 1`: ../static/downloads/pEC958.complete.embl
+.. _`pEC958B plasmid 2`: ../static/downloads/pEC958B.complete.embl
 
 
 Draft Genomes
