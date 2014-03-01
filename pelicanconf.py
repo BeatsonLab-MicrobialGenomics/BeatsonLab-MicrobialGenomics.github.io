@@ -11,7 +11,7 @@ TIMEZONE = 'Australia/Brisbane'
 
 DEFAULT_LANG = u'en'
 
-STATIC_PATHS ['images', 'downloads']
+STATIC_PATHS = ['images', 'downloads']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
