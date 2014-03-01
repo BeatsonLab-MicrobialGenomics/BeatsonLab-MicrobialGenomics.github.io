@@ -20,7 +20,10 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Code on GitHub', 'https://github.com/organizations/BeatsonLab-MicrobialGenomics'),
-        ('SCMB@UQ', 'http://staff.scmb.uq.edu.au/staff/beatson'),)
+        ('SCMB@UQ', 'http://staff.scmb.uq.edu.au/staff/beatson'),
+        ('BRIG', 'http://sourceforge.net/projects/brig/'),
+        ('EasyFig', 'http://easyfig.sourceforge.net'),
+        ('SeqFindR', 'http://github.com/mscook/SeqFindR'),)
 
 # Social widget
 SOCIAL = ''
