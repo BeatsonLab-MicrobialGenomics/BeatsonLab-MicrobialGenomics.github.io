@@ -32,5 +32,5 @@ with open("content/pages/Publications.rst", "w") as fout:
     fout.write("Publications\n")
     fout.write("============\n\n")
     fout.write("These were automatically extracted from PubMed on "+ time.strftime("%c\n\n"))
-    fout.write(fetch('Beatson S[Author]', 'pub date'))
+    fout.write(fetch('(Beatson S[Author]) NOT Beatson SH[Author]', 'pub date'))
 
