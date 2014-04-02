@@ -28,7 +28,7 @@ LINKS =  (('Code on GitHub', 'https://github.com/organizations/BeatsonLab-Microb
 # Social widget
 SOCIAL = ''
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 5
 
 CWD = os.getcwd()
 THEME = os.path.join(CWD, "themes/pelican-bootstrap3")
