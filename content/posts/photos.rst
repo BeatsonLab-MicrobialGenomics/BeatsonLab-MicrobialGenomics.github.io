@@ -11,7 +11,7 @@ Group photos
 Hitesh's & Majeb's farewell
 ---------------------------
 
-.. figure:: images/Majed_Hitesh_farewell.jpg
+.. figure:: ../static/images/Majed_Hitesh_farewell.jpg
     :alt: Group shot at Majed's and Hitesh's farewell
 
 |
