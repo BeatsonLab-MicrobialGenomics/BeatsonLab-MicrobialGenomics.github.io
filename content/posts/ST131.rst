@@ -1,0 +1,82 @@
+Global Dissemination of a multidrug resistant Escherichia coli clone FAQ
+########################################################################
+
+:date: 2014-04-02 10:30
+:category: Publications
+:slug: PNAS_ST131_2014
+:author: Scott Beatson
+:summary: “Global Dissemination of a multidrug resistant Escherichia coli clone” FAQ
+
+
+What is the study about?
+------------------------
+
+We examined the DNA of a particular type of multidrug resistant *E. coli* called
+ST131. This type of bacteria was relatively unheard of until about 5 years ago
+but is now one of the most common causes of urinary tract and bloodstream
+infections. We were able to track the global emergence of ST131 by analysing
+a collection of isolates from all over the world. We found that they all
+evolved from a common ancestor quite recently and were resistant to multiple
+antibiotics.
+
+
+Why is it important?
+--------------------
+
+Urinary tract infections affect more than 150 million people around the world
+every year and about 50% of all women experience a urinary tract infection in
+their lifetime. ST131 are resistant to most antibiotics commonly used to treat
+urinary tract infections so it is important to be able to identify this type of
+*E. coli* early and treat the infection with an antibiotic that will work.
+Carbapenems are one of the few remaining types of antibiotics that are
+effective in treating ST131 but resistance to this antibiotic is increasing.
+
+
+What should we be worried about?
+--------------------------------
+
+Carbapenem resistance is an emerging problem, as the gene responsible is able
+to be easily transferred between bacteria. In the last couple of years
+carbapenem resistance genes have been reported in a small number of ST131
+bacteria. The concern is that this gene will spread throughout the ST131
+population, which is already the most successful *E. coli* clone to date. Not
+only would this limit treatment options for ST131 even further, it would also
+increase the chances that these resistance genes would be passed to other types
+of pathogenic bacteria.
+
+
+How does our study help?
+------------------------
+
+Our study provides a framework for understanding how these bacteria have
+evolved and spread around the globe. The genetic data that we produced can be
+used to develop new screening methods to ensure that ST131 are identified early
+in patients so that the best antibiotic treatment can be used. Ongoing
+surveillance of ST131 will also be important for tracking increased antibiotic
+resistance in this type of *E. coli*. In the longer term this work gives us the
+opportunity to develop new vaccines or therapies for preventing ST131. The fact
+that all ST131 are descended from a single ancestor means they may share an
+Achilles’ heel that we can target.
+
+
+How did we do the study?
+------------------------
+
+We collected ST131 isolates from around the world from the year 2000 to 2011.
+We used “next generation” DNA sequencing to determine the genome of each
+isolate – the genome is the collection of all genes in an organism. Each *E.
+coli* has about 5000 genes, so we studied about half a million genes using
+bioinformatics, a discipline that merges biology and computing.  The software
+that we developed to do this analysis and the data that we produced are now
+freely available to the rest of the scientific community. 
+
+
+**More information:**
+    * `Open Access PNAS article`_,
+    * `University of Queensland news article`_, and
+    * `Phys.org news article`_
+
+
+.. _`Open Access PNAS article`: http://www.pnas.org/content/early/2014/03/28/1322678111.abstract
+.. _`UQ news article`: http://www.uq.edu.au/news/article/2014/04/evolving-superbug-threatens-create-infection-tsunami
+.. _`Phys.org news article`: http://phys.org/news/2014-03-scientists-coli-clone-globally.html
