@@ -70,6 +70,8 @@ bioinformatics, a discipline that merges biology and computing.  The software
 that we developed to do this analysis and the data that we produced are now
 freely available to the rest of the scientific community. 
 
+|
+|
 
 **More information:**
     * `Open Access PNAS article`_,
@@ -78,5 +80,5 @@ freely available to the rest of the scientific community.
 
 
 .. _`Open Access PNAS article`: http://www.pnas.org/content/early/2014/03/28/1322678111.abstract
-.. _`UQ news article`: http://www.uq.edu.au/news/article/2014/04/evolving-superbug-threatens-create-infection-tsunami
+.. _`University of Queensland news article`: http://www.uq.edu.au/news/article/2014/04/evolving-superbug-threatens-create-infection-tsunami
 .. _`Phys.org news article`: http://phys.org/news/2014-03-scientists-coli-clone-globally.html
