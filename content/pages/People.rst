@@ -35,7 +35,13 @@ PhD candidates
 Honours students
 ----------------
 
-Leah Roberts
+`Leah Roberts <|filename|People/Leah.rst>`_
+
+
+Undergraduate students
+----------------------
+
+Marisa Emerson
 
 
 Visitors
