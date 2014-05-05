@@ -30,7 +30,6 @@ Draft Genomes
 
 Sequencing data
 ---------------
-   * `EC958 Raw PacBio Sequencing data`_
-   
-.._`EC958 Raw PacBio Sequencing data`: http://smms-steel.biosci.uq.edu.au/~brian/   
+   The E. coli EC958 Raw PacBio Sequencing data (hdf5 format) is available at
+      http://smms-steel.biosci.uq.edu.au/~brian/   
 
