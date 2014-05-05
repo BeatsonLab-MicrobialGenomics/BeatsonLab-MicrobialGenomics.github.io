@@ -30,5 +30,7 @@ Draft Genomes
 
 Sequencing data
 ---------------
-
+   * `EC958 Raw PacBio Sequencing data`_
+   
+.._`EC958 Raw PacBio Sequencing data`: http://smms-steel.biosci.uq.edu.au/~brian/   
 
