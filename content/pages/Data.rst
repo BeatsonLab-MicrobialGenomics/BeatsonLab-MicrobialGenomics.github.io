@@ -37,7 +37,8 @@ The data is available as `CAFM01000001`_ on the ENA.
 
 Sequencing data
 ---------------
-
+   The E. coli EC958 Raw PacBio Sequencing data (hdf5 format) is available at
+      http://smms-steel.biosci.uq.edu.au/~brian/   (can we change this so it does not show the link)
 
 .. _`ST131_99 GitHub repo`: https://github.com/BeatsonLab-MicrobialGenomics/ST131_99
 .. _`CAFM01000001`: http://www.ebi.ac.uk/ena/data/view/CAFM01000001
