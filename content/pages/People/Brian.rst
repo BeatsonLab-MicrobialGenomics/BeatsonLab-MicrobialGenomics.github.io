@@ -11,6 +11,7 @@ and evolutionary analysis of Lactobacillus genomes. In December 2012 I moved to 
 with Dr. Scott Beatson at the University of Queensland. Currently my work involves the uses of PacBio SMRT sequencing 
 technology to explore the genomes of multidrug resistant *E. coli* and developing methodologies for dealing with this 
 datatype.
+
 Over the last 5 years I have developed a strong research interest in the use of sequencing data and bioinformatics tools to 
 investigate the genomes of commensal and pathogenic bacteria, the pangenomes of bacterial communities and cohesive 
 phylogenetic groups. In addition, I firmly believe that the efficient analysis of sequence data in silico can enhance and 
