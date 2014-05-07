@@ -29,6 +29,8 @@ PhD candidates
 
 `Bryan Wee <|filename|People/Bryan.rst>`_
 
+`Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
+
 
 Honours students
 ----------------

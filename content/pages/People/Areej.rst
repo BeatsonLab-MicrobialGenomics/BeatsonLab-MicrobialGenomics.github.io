@@ -1,5 +1,8 @@
+:url: pages/Areej
+:save_as: pages/Areej.html
+
 Areej Alsheikh-Hussain
-----------------------
+======================
 
 I am a UQI scholarship recepient PhD candidate at the Beatson group working on Microbial Genomics and Reverse Vaccinology. I worked at Masdar Institute, Abu Dhabi (UAE), on mangroves soil microbial ecology from Sep 2012 to Jan 2014. On a full scholarship, I obtained my Master's degree from King Abdullah University of Science and Technology (KAUST), Saudi Arabia in Marine Science. In collaboration with Woods Hole Oceanographic Institution (WHOI), USA, I have conducted my thesis work on coral associated bacterium from June to Nov 2011. As for my undergrad, I completed a computer science Bachelor's degree with Academic Excellence. It's evident that I have done a major shift in my studies and career path, but this has only positioned me precisely where I want to be having both science flavours, a bioinformatician.
 
