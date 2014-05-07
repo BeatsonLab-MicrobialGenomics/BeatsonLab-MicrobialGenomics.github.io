@@ -17,13 +17,11 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-`Anne Senabouth <|filename|People/Anne.rst>`_ (Research Technician)
-
 
 PhD candidates
 --------------
 
-`Kirstin Thomson <|filename|People/Kirstin.rst>`_
+`Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
 `Nabil Alikhan <|filename|People/Nabil.rst>`_
 
@@ -52,6 +50,8 @@ Chad Boga (Masters coursework student)
 
 Former group members
 --------------------
+
+Anne Senabouth (Research Technician)
 
 Melinda Ashcroft (Summer research scholar)
 

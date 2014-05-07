@@ -51,3 +51,5 @@ GITHUB_SKIP_FORK = True
 
 #Theme specific - Use bootswatch themes
 BOOTSTRAP_THEME='yeti'
+
+GOOGLE_ANALYTICS='UA-49094461-1'
