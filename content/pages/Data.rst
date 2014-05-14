@@ -38,10 +38,12 @@ The data is available as `CAFM01000001`_ on the ENA.
 Sequencing data
 ---------------
 
-Escherichia coli 025b:H4-St131 str. EC958
+Escherichia coli 025b:H4-ST131 str. EC958
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `E. coli EC958 Raw PacBio Sequencing data (hdf5 format)`_
+
+
 
 .. _`E. coli EC958 Raw PacBio Sequencing data (hdf5 format)`: http://smms-steel.biosci.uq.edu.au/~brian/   
 .. _`ST131_99 GitHub repo`: https://github.com/BeatsonLab-MicrobialGenomics/ST131_99
