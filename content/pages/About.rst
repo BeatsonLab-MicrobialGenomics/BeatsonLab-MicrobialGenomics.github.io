@@ -29,7 +29,7 @@ targets and the development of software tools to enable integrated analysis of
 Recent research highlights
 --------------------------
 
-**Escherichia coli ST131:**
+**Escherichia coli ST131**
 
 In April 2014 we had a large scale study of *E coli* ST131 published_ in PNAS. 
 We wrote a `blog post`_ about the importance of this study. Both `UQ News`_ 
@@ -61,6 +61,7 @@ Prof Ian Henderson (Birmingham).
 
 .. _blog: http://beatsonlab-microbialgenomics.github.io/archives
 .. _photos: http://beatsonlab-microbialgenomics.github.io/photos.html
+
 
 Available projects
 ------------------
