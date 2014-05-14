@@ -26,11 +26,15 @@ targets and the development of software tools to enable integrated analysis of
 100’s or 1000’s of bacterial genomes. 
 
 
+Recent research highlights
+--------------------------
+
 **Escherichia coli ST131:**
 
-We recently published_ a large scale study of *E coli* ST131 in PNAS. We also 
-wrote a `blog post`_ about it, `UQ News`_ published an article about it and 
-`7 News`_ presented a news artice about it. The data is available on GitHub_.
+In April 2014 we had a large scale study of *E coli* ST131 published_ in PNAS. 
+We wrote a `blog post`_ about the importance of this study. Both `UQ News`_ 
+and `7 News`_ presented a news articles about this study. The data is 
+available on GitHub_.
 
 .. _published: http://www.pnas.org/content/early/2014/03/28/1322678111.abstract
 .. _`blog post`: http://beatsonlab.com/PNAS_ST131_2014.html
@@ -39,14 +43,15 @@ wrote a `blog post`_ about it, `UQ News`_ published an article about it and
 .. _`GitHub`: https://github.com/BeatsonLab-MicrobialGenomics/ST131_99
 
 
-**Collaborations:**
+Collaborations
+--------------
 
-*National:* Prof Mark Schembri (UQ), Prof Mark Walker (UQ), A/Prof Andrew 
+**National:** Prof Mark Schembri (UQ), Prof Mark Walker (UQ), A/Prof Andrew 
 Barnes (UQ), Dr Mark Turner (UQ), A/Prof Glen Ulett (Griffith), Dr Kari Gobius 
 (CSIRO), Prof David Paterson (UQ), A/Prof Scott Bell (QHealth), A/Prof Claire 
 Wainwright (QHealth), Prof Elizabeth Hartland (UMel).  
 
-*International:* Dr Mat Upton (Manchester), Prof David Gally (Edinburgh), 
+**International:** Dr Mat Upton (Manchester), Prof David Gally (Edinburgh), 
 Dr Andrew Roe (Glasgow), Prof Tim Walsh (Cardiff), 
 Prof Ian Henderson (Birmingham).
 
