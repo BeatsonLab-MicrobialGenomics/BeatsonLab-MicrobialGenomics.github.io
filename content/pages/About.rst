@@ -25,6 +25,20 @@ between bacteria?" to the identification of potential diagnostic and vaccine
 targets and the development of software tools to enable integrated analysis of 
 100’s or 1000’s of bacterial genomes. 
 
+
+**Escherichia coli ST131:**
+
+We recently published_ a large scale study of *E coli* ST131 in PNAS. We also 
+wrote a `blog post`_ about it, `UQ News` published an article about it and 
+`7 News` presented a news artice about it. The data is available on `GitHub`.
+
+.. _published: http://www.pnas.org/content/early/2014/03/28/1322678111.abstract
+.. _`blog post`: http://beatsonlab.com/PNAS_ST131_2014.html
+.. _`UQ News`: http://www.uq.edu.au/news/article/2014/04/evolving-superbug-threatens-create-infection-tsunami
+.. _`7 News`: https://au.news.yahoo.com/video/watch/22383656/researchers-declare-war-on-superbugs/
+.. _`GitHub`: https://github.com/BeatsonLab-MicrobialGenomics/ST131_99
+
+
 **Collaborations:**
 
 *National:* Prof Mark Schembri (UQ), Prof Mark Walker (UQ), A/Prof Andrew 
