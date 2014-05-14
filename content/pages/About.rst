@@ -29,8 +29,8 @@ targets and the development of software tools to enable integrated analysis of
 **Escherichia coli ST131:**
 
 We recently published_ a large scale study of *E coli* ST131 in PNAS. We also 
-wrote a `blog post`_ about it, `UQ News` published an article about it and 
-`7 News` presented a news artice about it. The data is available on `GitHub`.
+wrote a `blog post`_ about it, `UQ News`_ published an article about it and 
+`7 News`_ presented a news artice about it. The data is available on GitHub_.
 
 .. _published: http://www.pnas.org/content/early/2014/03/28/1322678111.abstract
 .. _`blog post`: http://beatsonlab.com/PNAS_ST131_2014.html
