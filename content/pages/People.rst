@@ -31,6 +31,8 @@ PhD candidates
 
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
+`Melinda Ashcroft <|filename|People/Melinda.rst>`_
+
 
 Honours students
 ----------------
@@ -47,8 +49,7 @@ Marisa Emerson
 Visitors
 --------
 
-Hamza Khan (Summer research scholar)
-
+Nope.
 
 Volunteers
 ----------
@@ -62,6 +63,8 @@ Former group members
 Anne Senabouth (Research Technician)
 
 Melinda Ashcroft (Summer research scholar)
+
+Hamza Khan (Summer research scholar)
 
 Leah Roberts (Summer research scholar)
 
