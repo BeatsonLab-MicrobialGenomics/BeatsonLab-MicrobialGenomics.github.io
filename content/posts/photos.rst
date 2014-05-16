@@ -7,6 +7,13 @@ Group photos
 :author: Mitchell Stanton-Cook
 :summary: Photos of group events
 
+2014 Retreat to TRI
+-------------------
+
+.. figure:: ../static/images/TRI_selfie.png
+    :alt: Retreat and new student induction at TRI
+
+
 
 Hitesh's & Majeb's farewell
 ---------------------------
