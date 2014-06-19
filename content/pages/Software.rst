@@ -21,7 +21,7 @@ BRIG can generate figures like this in a matter of minutes:
 
 |
 
-.. image:: ../static/images/BRIG_example.jpg
+.. image:: /images/BRIG_example.jpg
     :alt: BRIG figure from Totsika et al. (2011)
 
 |
@@ -54,7 +54,7 @@ EasyFig can generate figures like this in minutes:
 
 |
 
-.. image:: ../static/images/EasyFig_example.gif
+.. image:: /images/EasyFig_example.gif
     :alt: Easyfig comparison of three E. coli with GC content of top genome 
           plotted.
 

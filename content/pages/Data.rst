@@ -15,9 +15,9 @@ Following is available:
     * `pEC958 plasmid 1`_
     * `pEC958B plasmid 2`_
 
-.. _`EC958 complete genome`: ../static/downloads/EC958.chr.complete.embl
-.. _`pEC958 plasmid 1`: ../static/downloads/pEC958.complete.embl
-.. _`pEC958B plasmid 2`: ../static/downloads/pEC958B.complete.embl
+.. _`EC958 complete genome`: /downloads/EC958.chr.complete.embl
+.. _`pEC958 plasmid 1`: /downloads/pEC958.complete.embl
+.. _`pEC958B plasmid 2`: /downloads/pEC958B.complete.embl
 
 
 
