@@ -2,7 +2,7 @@
 :URL:
 :save_as: index.html
 
-.. image:: ../static/images/bl_logo.png
+.. image:: /images/bl_logo.png
     :alt: Beatson Lab Group logo
 
 The Beatson group aims to better understand the molecular mechanisms of
