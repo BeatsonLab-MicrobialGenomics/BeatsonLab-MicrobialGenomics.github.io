@@ -17,6 +17,8 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
+`Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
+
 
 PhD candidates
 --------------
@@ -43,7 +45,6 @@ Honours students
 Undergraduate students
 ----------------------
 
-Marisa Emerson
 
 
 Visitors
