@@ -35,6 +35,8 @@ PhD candidates
 
 `Melinda Ashcroft <|filename|People/Melinda.rst>`_
 
+`Nhu Nguyen Thi Khanh <|filename|People/Nhu.rst>`_
+
 
 Honours students
 ----------------
