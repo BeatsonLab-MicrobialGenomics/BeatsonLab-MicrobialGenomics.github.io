@@ -7,6 +7,30 @@ Group photos
 :author: Mitchell Stanton-Cook
 :summary: Photos of group events
 
+
+HJ's and Share's Farewell @ SouthBank 2014
+------------------------------------------
+
+.. image:: ../images/hj_share_farewell.JPG 
+
+
+October 2014 surfing and BBQ Coolangatta
+----------------------------------------
+
+Vegeterian event -
+(Sadly there is no photographic evidence of the BBQ fire)
+
+.. image:: ../images/lab_bbq_2014.JPG
+
+|
+
+.. image:: ../images/surfing_2014.JPG
+
+|
+
+.. image:: ../images/hj_and_share.JPG
+
+
 2014 Retreat to TRI
 -------------------
 
