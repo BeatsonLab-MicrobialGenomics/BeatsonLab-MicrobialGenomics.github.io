@@ -2,6 +2,9 @@
 People
 ======
 
+As per 17/10/14:
+
+
 Group Leader
 ------------
 
@@ -25,8 +28,6 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
-`Nabil Alikhan <|filename|People/Nabil.rst>`_
-
 `Mitchell Sullivan <|filename|People/MitchS.rst>`_
 
 `Bryan Wee <|filename|People/Bryan.rst>`_
@@ -47,6 +48,7 @@ Honours students
 Undergraduate students
 ----------------------
 
+Tek-Jun Ling (SeqFindr-Web project)
 
 
 Visitors
@@ -54,14 +56,20 @@ Visitors
 
 Nope.
 
+
 Volunteers
 ----------
 
-Chad Boga (Masters coursework student)
+Nope
 
 
 Former group members
 --------------------
+
+
+`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Submitted PhD)
+
+Chad Boga (Masters coursework student)
 
 Anne Senabouth (Research Technician)
 
@@ -87,9 +95,13 @@ Jan Szubert (Postdoctoral fellow)
 Past visitors
 -------------
 
-Lauren Cowley
+Share Yuanny Goh (via Dr Chan Kok Gan)
 
-Majed Al Ghoribi
+Huey Jia Cheng (via Dr Chan Kok Gan)
+
+Lauren Cowley (Public Health England via Tim Dallman)
+
+Majed Al Ghoribi (via Mat Upton)
 
 `David Gally`_
 
