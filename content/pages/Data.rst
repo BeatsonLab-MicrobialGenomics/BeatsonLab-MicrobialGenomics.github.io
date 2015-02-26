@@ -20,6 +20,16 @@ Following is available:
 .. _`pEC958B plasmid 2`: /downloads/pEC958B.complete.embl
 
 
+Escherichia coli VR50
+~~~~~~~~~~~~~~~~~~~~~
+
+Following is available:
+    * `VR50 complete genome + plasmids`_
+    * `VR50 PacBio Rawdata`_
+
+.. _`VR50 complete genome + plasmids`: /downloads/EcoliVR50_submission.BF.embl
+.. _`VR50 PacBio Rawdata`: https://Q0119-RO:aegah8ON@q0119.qcloud.qcif.edu.au/VR50/VR50_Raw_Pacbio.tar.gz
+
 
 Draft Genomes
 -------------
