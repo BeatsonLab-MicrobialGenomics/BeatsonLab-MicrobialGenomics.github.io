@@ -26,8 +26,8 @@ In 2015 he'll be helping to organise HealthHack_ in Brisbane.
 You can find Mitchell's publication record here_. He also spends a fair bit 
 of time on twitter_ and has a personal blog_.
 
-.. _code_: https://github.com/mscook
-.. _SWC: http://http://software-carpentry.org
+.. _code: https://github.com/mscook
+.. _SWC: http://software-carpentry.org
 .. _July: http://bio-swc-bne.github.io/2015-07-02-UQ/
 .. _HealthHack: http://www.healthhack.com.au
 .. _here: https://scholar.google.com.au/citations?user=MGafrX4AAAAJ&hl=en
