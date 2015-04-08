@@ -31,6 +31,17 @@ Following is available:
 .. _`VR50 PacBio Rawdata`: https://Q0119-RO:aegah8ON@q0119.qcloud.qcif.edu.au/VR50/VR50_Raw_Pacbio.tar.gz
 
 
+Klebsiella pneumoniae MS6671
+~~~~~~~~~~~~~~~~~~~~~
+
+Following is available:
+    * `MS6671 complete genome + plasmids`_
+    * `MS6671 PacBio Rawdata`_
+
+.. _`MS6671 complete genome + plasmids`: http://smms-steel.biosci.uq.edu.au/~brian/MS6671/MS6671_genome.embl
+.. _`Ms6671 PacBio Rawdata`: https://Q0119-RO:aegah8ON@q0119.qcloud.qcif.edu.au/Kpneumoniae_MS6671/Kpneumoniae_MS6671_raw.tar.gz
+
+
 Draft Genomes
 -------------
 
