@@ -32,7 +32,7 @@ Following is available:
 
 
 Klebsiella pneumoniae MS6671
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Following is available:
     * `MS6671 complete genome + plasmids`_
