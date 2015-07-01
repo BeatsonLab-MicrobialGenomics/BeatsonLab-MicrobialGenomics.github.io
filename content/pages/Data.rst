@@ -55,6 +55,11 @@ Legionella pneumophila 130b
 
 The data is available as `CAFM01000001`_ on the ENA.
 
+Pseudomonas aeruginosa strain AES-1R 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Updated draft genome data`_
+
+(this replaces the 454 GS20 draft genome AFNF01000001-AFNF01001783)
 
 Sequencing data
 ---------------
@@ -70,4 +75,4 @@ Escherichia coli 025b:H4-ST131 str. EC958
 .. _`ST131_99 GitHub repo`: https://github.com/BeatsonLab-MicrobialGenomics/ST131_99
 .. _`CAFM01000001`: http://www.ebi.ac.uk/ena/data/view/CAFM01000001
 .. _`available here`: http://smms-steel.biosci.uq.edu.au/~brian/
-
+.. _`Updated draft genome data`: http://smms-steel.biosci.uq.edu.au/~brian/AES-1R/data/
