@@ -7,24 +7,19 @@
 
 The Beatson group aims to better understand the molecular mechanisms of
 infectious disease and identify potential therapeutic and diagnostic targets by
-exploiting “Next-gen” genomic data. A major focus of the group is the
-comparative analysis of genomes obtained from local clinical isolates of
-important human pathogens such as *Escherichia coli, Pseudomonas aeruginosa,
-Staphylococci, Streptococci, Legionella pneumophila* and *Acinetobacter
-baumannii*. In particular, the group is interested in the evolution and
-mobility of genes encoding virulence factors that are widely conserved amongst
-bacterial pathogens (e.g. fimbriae, pili and type III and type IV secretion
-systems and secreted effectors). World-wide there are thousands of bacterial
-genome and meta-genome projects in progress, but the bottle-neck remains data
-analysis. A major priority in the group is the development of bioinformatics
-software to effectively utilize Next-gen sequence data.
+exploiting “Next-gen” genomic data. We aim to exploit next-generation DNA sequencing 
+to better understand how medically important bacteria cause disease, become resistant 
+to antibiotics and disseminate globally. Our major focus is the role of mobile genetic 
+elements in the evolution of virulence and antimicrobial resistance amongst pathogens 
+such as *Escherichia coli*, *Streptococcus pyogenes*, and *Pseudomonas aeruginosa*. Our 
+group develops new computational approaches for the rapid analysis of bacterial genome 
+data from the latest sequencing technologies. 
 
 Current projects range from researching fundamental questions such as “how has
 *Escherichia coli* pathogenesis evolved?” and "how are genes transferred 
 between bacteria?" to the identification of potential diagnostic and vaccine 
 targets and the development of software tools to enable integrated analysis of 
 100’s or 1000’s of bacterial genomes. 
-
 
 Recent research highlights
 --------------------------
@@ -67,13 +62,14 @@ Collaborations
 --------------
 
 **National:** Prof Mark Schembri (UQ), Prof Mark Walker (UQ), A/Prof Andrew 
-Barnes (UQ), Dr Mark Turner (UQ), A/Prof Glen Ulett (Griffith), Dr Kari Gobius 
-(CSIRO), Prof David Paterson (UQ), A/Prof Scott Bell (QHealth), A/Prof Claire 
-Wainwright (QHealth), Prof Elizabeth Hartland (UMel).  
+Barnes (UQ), A/Prof Mark Turner (UQ), A/Prof Glen Ulett (Griffith), Dr Kari Gobius 
+(CSIRO), Prof David Paterson (UQ), Prof Scott Bell (QHealth/QIMRB), A/Prof Claire 
+Wainwright (QHealth), Prof Elizabeth Hartland (UMel), Prof James Paton (UAdelaide),
+Dr Paul Bartley (Wesley Hospital), A/Prof Darren Trott (UAdelaide), Dr Nick West (UQ).  
 
-**International:** Dr Mat Upton (Manchester), Prof David Gally (Edinburgh), 
-Dr Andrew Roe (Glasgow), Prof Tim Walsh (Cardiff), 
-Prof Ian Henderson (Birmingham).
+**International:** A/Prof Mat Upton (Manchester), Prof David Gally (Edinburgh), 
+Dr Andrew Roe (Glasgow), Prof Tim Walsh (Cardiff), Dr Kok Gan Chan (Malaysia),
+Prof Ian Henderson (Birmingham), Dr Tim Dallman (PHE).
 
 **Read more about our research in our** blog_.
 
@@ -86,7 +82,7 @@ Prof Ian Henderson (Birmingham).
 Available projects
 ------------------
 
-Potential projects include:
+Briefly, projects include:
     * Developing software for Next-Gen bacterial genome and meta-genome 
       assembly, annotation and analysis
     * Investigating the role of positive selection in the evolution of 
@@ -94,4 +90,17 @@ Potential projects include:
     * Genomic epidemiology: investigating outbreaks using genome sequencing
     * Reverse vaccinology: identifying candidate bacterial vaccine candidates
     * Investigating the role of bacteriophage in mobilizing virulence genes
+    * PacBio SMRT genome assembly and methylome analysis
+    * Antibiotic resistance and virulence gene profiling from Illumina sequence data
+    
+We have ongoing projects to study the the following organisms:
+    * *Escherichia coli* ST131 and other global pandemic E. coli sequence types
+    * Carbapenem Resistant *Enterobacteriaceae* (CRE) 
+    * *Pseudomonas aeruginosa*
+    * Group A and Group B *Streptococcus*
+    * *Mycobacterium tuberculosis*
 
+`More information on projects <|filename|Pages|projects.rst>`
+
+Please contact Scott directly (scott dot beatson at uq.edu.au) to enquire about specific opportunities 
+for Undergraduate, Masters, Honours or PHD projects at The University of Queensland.
