@@ -61,10 +61,10 @@ Visitors
 `Professor Iain Lamont <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/>`_, Otago University
 
 
-Volunteers
+.. Volunteers
 ----------
 
-Nil.
+.. Nil.
 
 
 Former group members
