@@ -20,7 +20,8 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-`Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
+Tom Robinson 
+
 
 
 PhD candidates
@@ -66,6 +67,7 @@ Nope
 Former group members
 --------------------
 
+`Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
 `Nabil Alikhan <|filename|People/Nabil.rst>`_ (Submitted PhD)
 
