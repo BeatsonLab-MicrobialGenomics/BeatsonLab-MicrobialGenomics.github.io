@@ -5,11 +5,11 @@ Leah Roberts
 =============
 
 .. image:: ../../images/Leah_pic.jpg
-  :height: 100px
-  :width: 200px
-  :scale: 50%
-  :alt: Leah Roberts in Vietnam!
-  :align: right
+:height: 100px
+:width: 200px
+:scale: 50%
+:alt: Leah Roberts in Vietnam!
+:align: right
 
 I completed my undergraduate degree in Science/Arts at the University of Queensland in 2013, majoring in Microbiology (infectious disease) and Japanese (extended major). I then completed Honours in the Scott Beatson lab in 2014, working on the role of insertion sequences in the recently emerged *Escherichia coli* ST131 lineage. I was awarded the 2013 UQ Microbiology prize, and later in 2014 a UQ University Medal_ for academic achievement in the Bachelor of Science with Honours. I have also participated in several introductory research experiences with Dr Ulrike Kappler, A/Prof James Fraser and A/Prof Scott Beatson.
 
