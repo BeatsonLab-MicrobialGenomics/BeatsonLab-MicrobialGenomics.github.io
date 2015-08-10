@@ -4,6 +4,13 @@
 Bryan Wee
 =========
 
+.. image:: ../../../images/bryan_photo.jpg
+  :height: 100px
+  :width: 200 px
+  :scale: 50 %
+  :alt: bryan_pic
+  :align: right
+
 Bryan graduated from Universiti Kebangsaan Malaysia in 2008 with a Bachelor 
 of Science (Hons), majoring in Zoology. Prior to joining the Beatson Microbial 
 Genomics Lab as a PhD student, he completed a masters degree in Molecular 
