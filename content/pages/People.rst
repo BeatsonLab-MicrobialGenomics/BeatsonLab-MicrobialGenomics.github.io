@@ -30,6 +30,12 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
+<<<<<<< HEAD
+=======
+`Mitchell Sullivan <|filename|People/MitchS.rst>`_ (Submitted PhD)
+
+`Bryan Wee <|filename|People/Bryan.rst>`_ (Submitted PhD)
+
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
 `Melinda Ashcroft <|filename|People/Melinda.rst>`_
@@ -74,7 +80,7 @@ Tek-Jun Ling (SeqFindr-Web project)
 
 `Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
-`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Submitted PhD)
+`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Awarded PhD)
 
 Chad Boga (Masters coursework student)
 
