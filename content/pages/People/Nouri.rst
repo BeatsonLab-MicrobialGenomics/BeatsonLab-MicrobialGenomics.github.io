@@ -15,7 +15,6 @@ My interests range from population genetics and evolutionary genomics to functio
 In my spare time, I enjoy travelling, photography, kayaking, scuba diving and archery. True to my French roots, I also have a passion for (good) food.
 
 
-=======
 I am a senior post-doctoral researcher specialised in Microbial and Evolutionary Genomics, working in the Beatson Lab, 
 at the Australian Infectious Diseases Research Centre, University of Queensland since 2009. In 2002, I was awarded a 
 scholarship of Excellence of the French Ministry of Research to do a PhD in Bioinformatics at the French National 
