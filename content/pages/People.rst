@@ -20,7 +20,9 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-Tom Robinson 
+`Bryan Wee <|filename|People/Bryan.rst>`_
+
+Tom Robinson (IT consultant)
 
 
 
@@ -29,9 +31,6 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
-`Mitchell Sullivan <|filename|People/MitchS.rst>`_
-
-`Bryan Wee <|filename|People/Bryan.rst>`_
 
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
@@ -39,17 +38,19 @@ PhD candidates
 
 `Nhu Nguyen Thi Khanh <|filename|People/Nhu.rst>`_
 
+`Leah Roberts <|filename|People/Leah.rst>`_
+
 
 Honours students
 ----------------
 
-`Leah Roberts <|filename|People/Leah.rst>`_
+Nope
 
 
-Undergraduate students
-----------------------
+Undergraduate/Project students
+------------------------------
 
-Tek-Jun Ling (SeqFindr-Web project)
+Mohamed Bulushi
 
 
 Visitors
@@ -66,6 +67,10 @@ Nope
 
 Former group members
 --------------------
+
+Tek-Jun Ling (SeqFindr-Web project)
+
+`Mitchell Sullivan <|filename|People/MitchS.rst>`_
 
 `Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
