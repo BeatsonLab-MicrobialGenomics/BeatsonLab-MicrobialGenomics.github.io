@@ -30,8 +30,6 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
-<<<<<<< HEAD
-=======
 `Mitchell Sullivan <|filename|People/MitchS.rst>`_ (Submitted PhD)
 
 `Bryan Wee <|filename|People/Bryan.rst>`_ (Submitted PhD)
@@ -48,7 +46,7 @@ PhD candidates
 Honours students
 ----------------
 
-Nope
+Nil.
 
 
 Undergraduate/Project students
