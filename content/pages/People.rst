@@ -29,9 +29,9 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
-`Mitchell Sullivan <|filename|People/MitchS.rst>`_
+`Mitchell Sullivan <|filename|People/MitchS.rst>`_ (Submitted PhD)
 
-`Bryan Wee <|filename|People/Bryan.rst>`_
+`Bryan Wee <|filename|People/Bryan.rst>`_ (Submitted PhD)
 
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
@@ -69,7 +69,7 @@ Former group members
 
 `Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
-`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Submitted PhD)
+`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Awarded PhD)
 
 Chad Boga (Masters coursework student)
 
