@@ -55,7 +55,7 @@ Tek-Jun Ling (SeqFindr-Web project)
 Visitors
 --------
 
-Nope.
+`Professor Iain Lamont <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/>`_, Otago University
 
 
 Volunteers
