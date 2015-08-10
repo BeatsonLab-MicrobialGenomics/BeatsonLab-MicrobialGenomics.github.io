@@ -2,7 +2,7 @@
 :save_as: pages/Scott.html
 
 Associate Professor Scott Beatson
-================
+=================================
 
 .. image:: ../../images/scottcropped.jpg?raw=true
 
