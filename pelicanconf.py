@@ -11,7 +11,7 @@ TIMEZONE = 'Australia/Brisbane'
 
 DEFAULT_LANG = u'en'
 
-STATIC_PATHS = ['images', 'downloads']
+STATIC_PATHS = ['images', 'downloads' , 'schedule']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -28,7 +28,7 @@ LINKS =  (('Code on GitHub', 'https://github.com/organizations/BeatsonLab-Microb
 # Social widget
 SOCIAL = ''
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 5
 
 CWD = os.getcwd()
 THEME = os.path.join(CWD, "themes/pelican-bootstrap3")
@@ -53,3 +53,7 @@ GITHUB_SKIP_FORK = True
 BOOTSTRAP_THEME='yeti'
 
 GOOGLE_ANALYTICS='UA-49094461-1'
+
+#PLUGIN_PATH = 'pelican-plugins/'
+#PLUGINS = ['better_figures_and_images']
+#RESPONSIVE_IMAGES = True

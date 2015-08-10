@@ -8,15 +8,46 @@ Group photos
 :summary: Photos of group events
 
 
+HJ's and Share's Farewell @ SouthBank 2014
+------------------------------------------
+
+.. image:: ../images/hj_share_farewell.JPG 
+
+
+October 2014 surfing and BBQ Coolangatta
+----------------------------------------
+
+Vegeterian event -
+(Sadly there is no photographic evidence of the BBQ fire)
+
+.. image:: ../images/lab_bbq_2014.JPG
+
+|
+
+.. image:: ../images/surfing_2014.JPG
+
+|
+
+.. image:: ../images/hj_and_share.JPG
+
+
+2014 Retreat to TRI
+-------------------
+
+.. figure:: /images/TRI_selfie.png
+    :alt: Retreat and new student induction at TRI
+
+
+
 Hitesh's & Majeb's farewell
 ---------------------------
 
-.. image:: ../static/images//Majed_Hitesh_farewell.jpg
+.. figure:: /images/Majed_Hitesh_farewell.jpg
     :alt: Group shot at Majed's and Hitesh's farewell
 
 |
 
-.. image:: ../static/images//Majed_Hitesh_farewell2.jpg
+.. image:: /images//Majed_Hitesh_farewell2.jpg
     :alt: Hitesh & Scott
 
 
@@ -24,17 +55,17 @@ Hitesh's & Majeb's farewell
 Coolangatta Beach and BBQ 2013
 ------------------------------
 
-.. image:: ../static/images/BBQ2013.jpg
+.. image:: /images/BBQ2013.jpg
     :alt: Beers with a view
 
 |
 
-.. image:: ../static/images/BBQ2013_2.jpg
+.. image:: /images/BBQ2013_2.jpg
     :alt: Watching Bryan save a lizard
 
 |
 
-.. image:: ../static/images/dreamtime_beach_trip.jpg
+.. image:: /images/dreamtime_beach_trip.jpg
     :alt: Group photo
 
 
@@ -42,12 +73,12 @@ Coolangatta Beach and BBQ 2013
 Nathan's PhD conferred
 ----------------------
 
-.. image:: ../static/images/Nathan_PhD.jpg
+.. image:: /images/Nathan_PhD.jpg
     :alt: Group photo
 
 |
 
-.. image:: ../static/images/Nathan_PhD2.jpg
+.. image:: /images/Nathan_PhD2.jpg
     :alt: Nathan & Scott
 
 
@@ -55,12 +86,12 @@ Nathan's PhD conferred
 Christmas 2012
 --------------
 
-.. image:: ../static/images/XMAS2012.jpg
+.. image:: /images/XMAS2012.jpg
     :alt: Dave Gally can surf!
 
 |
 
-.. image:: ../static/images/XMAS2012_2.jpg
+.. image:: /images/XMAS2012_2.jpg
     :alt: Bryan Wee can surf!
 
 
@@ -68,26 +99,26 @@ Christmas 2012
 Retreat Stradbroke Island 2012
 ------------------------------
 
-.. image:: ../static/images/Retreat2012.jpg
+.. image:: /images/Retreat2012.jpg
     :alt: Group photo
 
 |
 
-.. image:: ../static/images/Retreat_2012_2.jpg
+.. image:: /images/Retreat_2012_2.jpg
     :alt: Blue lake 7 attach of Catfish
 
 |
 
-.. image:: ../static/images/Retreat2012_3.jpg
+.. image:: /images/Retreat2012_3.jpg
     :alt: Group photo 2 - Point lookout
 
 |
 
-.. image:: ../static/images/Retreat_2012_4.jpg
+.. image:: /images/Retreat_2012_4.jpg
     :alt: Worse for wear
 
 |
 
-.. image:: ../static/images/Retreat_2012_5.jpg
+.. image:: /images/Retreat_2012_5.jpg
     :alt: Stradbroke has a BRIG st
 

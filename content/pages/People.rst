@@ -2,6 +2,9 @@
 People
 ======
 
+As per 17/10/14:
+
+
 Group Leader
 ------------
 
@@ -17,43 +20,64 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-`Anne Senabouth <|filename|People/Anne.rst>`_ (Research Technician)
+Tom Robinson 
+
 
 
 PhD candidates
 --------------
 
-`Kirstin Thomson <|filename|People/Kirstin.rst>`_
-
-`Nabil Alikhan <|filename|People/Nabil.rst>`_
+`Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
 `Mitchell Sullivan <|filename|People/MitchS.rst>`_
 
 `Bryan Wee <|filename|People/Bryan.rst>`_
 
+`Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
+
+`Melinda Ashcroft <|filename|People/Melinda.rst>`_
+
+`Nhu Nguyen Thi Khanh <|filename|People/Nhu.rst>`_
+
 
 Honours students
 ----------------
 
-Leah Roberts
+`Leah Roberts <|filename|People/Leah.rst>`_
+
+
+Undergraduate students
+----------------------
+
+Tek-Jun Ling (SeqFindr-Web project)
 
 
 Visitors
 --------
 
-Hamza Khan (Summer research scholar)
+`Professor Iain Lamont <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/>`_, Otago University
 
 
 Volunteers
 ----------
 
-Chad Boga (Masters coursework student)
+Nope
 
 
 Former group members
 --------------------
 
+`Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
+
+`Nabil Alikhan <|filename|People/Nabil.rst>`_ (Submitted PhD)
+
+Chad Boga (Masters coursework student)
+
+Anne Senabouth (Research Technician)
+
 Melinda Ashcroft (Summer research scholar)
+
+Hamza Khan (Summer research scholar)
 
 Leah Roberts (Summer research scholar)
 
@@ -73,9 +97,13 @@ Jan Szubert (Postdoctoral fellow)
 Past visitors
 -------------
 
-Lauren Cowley
+Share Yuanny Goh (via Dr Chan Kok Gan)
 
-Majed Al Ghoribi
+Huey Jia Cheng (via Dr Chan Kok Gan)
+
+Lauren Cowley (Public Health England via Tim Dallman)
+
+Majed Al Ghoribi (via Mat Upton)
 
 `David Gally`_
 
