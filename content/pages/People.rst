@@ -2,7 +2,7 @@
 People
 ======
 
-As per 17/10/14:
+As per 10/08/14:
 
 
 Group Leader
@@ -20,8 +20,9 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-Tom Robinson 
+`Bryan Wee <|filename|People/Bryan.rst>`_
 
+Tom Robinson (IT consultant)
 
 
 PhD candidates
@@ -29,27 +30,25 @@ PhD candidates
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
 
-`Mitchell Sullivan <|filename|People/MitchS.rst>`_
-
-`Bryan Wee <|filename|People/Bryan.rst>`_
-
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
 `Melinda Ashcroft <|filename|People/Melinda.rst>`_
 
 `Nhu Nguyen Thi Khanh <|filename|People/Nhu.rst>`_
 
+`Leah Roberts <|filename|People/Leah.rst>`_
+
 
 Honours students
 ----------------
 
-`Leah Roberts <|filename|People/Leah.rst>`_
+Nope
 
 
-Undergraduate students
-----------------------
+Undergraduate/Project students
+------------------------------
 
-Tek-Jun Ling (SeqFindr-Web project)
+Mohamed Bulushi
 
 
 Visitors
@@ -61,11 +60,17 @@ Visitors
 Volunteers
 ----------
 
-Nope
+Nil.
 
 
 Former group members
 --------------------
+
+Faisal Altemani (Phylogenomics method development)
+
+Tek-Jun Ling (SeqFindr-Web project)
+
+`Mitchell Sullivan <|filename|People/MitchS.rst>`_ (Submitted PhD)
 
 `Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
@@ -97,9 +102,9 @@ Jan Szubert (Postdoctoral fellow)
 Past visitors
 -------------
 
-Share Yuanny Goh (via Dr Chan Kok Gan)
+Share Yuanny Goh (via Dr Kok-Gan Chan, University of Malaya)
 
-Huey Jia Cheng (via Dr Chan Kok Gan)
+Huey Jia Cheng (via Dr Kok-Gan Chan, University of Malaya)
 
 Lauren Cowley (Public Health England via Tim Dallman)
 
