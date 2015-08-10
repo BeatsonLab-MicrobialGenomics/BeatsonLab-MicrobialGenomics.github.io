@@ -2,7 +2,7 @@
 People
 ======
 
-As per 17/10/14:
+As per 10/08/14:
 
 
 Group Leader
@@ -25,12 +25,10 @@ Staff
 Tom Robinson (IT consultant)
 
 
-
 PhD candidates
 --------------
 
 `Kirstin Hanks <|filename|People/Kirstin.rst>`_
-
 
 `Areej Alsheikh-Hussain <|filename|People/Areej.rst>`_
 
@@ -56,21 +54,23 @@ Mohamed Bulushi
 Visitors
 --------
 
-Nope.
+Nil.
 
 
 Volunteers
 ----------
 
-Nope
+Nil.
 
 
 Former group members
 --------------------
 
+Faisal Altemani (Phylogenomics method development)
+
 Tek-Jun Ling (SeqFindr-Web project)
 
-`Mitchell Sullivan <|filename|People/MitchS.rst>`_
+`Mitchell Sullivan <|filename|People/MitchS.rst>`_ (Submitted PhD)
 
 `Marisa Emerson <|filename|People/Marisa.rst>`_ (Research assistant)
 
@@ -102,9 +102,9 @@ Jan Szubert (Postdoctoral fellow)
 Past visitors
 -------------
 
-Share Yuanny Goh (via Dr Chan Kok Gan)
+Share Yuanny Goh (via Dr Kok-Gan Chan, University of Malaya)
 
-Huey Jia Cheng (via Dr Chan Kok Gan)
+Huey Jia Cheng (via Dr Kok-Gan Chan, University of Malaya)
 
 Lauren Cowley (Public Health England via Tim Dallman)
 
