@@ -2,7 +2,7 @@
 People
 ======
 
-As per 10/08/14:
+As per 10/08/15:
 
 
 Group Leader
@@ -19,8 +19,6 @@ Staff
 `Mitchell Stanton-Cook <|filename|People/MitchSC.rst>`_ (BioIT specialist)
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
-
-`Bryan Wee <|filename|People/Bryan.rst>`_
 
 Tom Robinson (IT consultant)
 
@@ -61,10 +59,10 @@ Visitors
 `Professor Iain Lamont <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/>`_, Otago University
 
 
-Volunteers
+.. Volunteers
 ----------
 
-Nil.
+.. Nil.
 
 
 Former group members
