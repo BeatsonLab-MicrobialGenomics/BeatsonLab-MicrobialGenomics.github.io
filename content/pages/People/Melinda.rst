@@ -4,7 +4,7 @@
 Melinda Ashcroft
 ================
 
-.. image:: ../static/images/Mel.jpg
+.. image:: ../../static/images/Mel.jpg
 
 I completed my undergraduate degree (BASc) approximately 10 years ago at the Queensland University of Technology majoring in Biotechnology and Biochemistry. I then spent 7 years working in a different career, before returning to postgraduate study and obtained my Master of Biotechnology from the University of Queensland in 2013. I have conducted 2 minor thesis projects as part of the Masters course. The first project focused on chemical irritant induced, skin inflammation in a molecular biology laboratory with the second project focused on transcription factors in melanoma in the Beatson bioinformatics laboratory. Additionally, I was awarded two summer research scholarships. The first focused on metabolic engineering of industrial and pharmaceutical isoprenoids in microbes in the Australian Institute of Bioengineering and Nanotechnology, with the second focused on data manipulation of the *E. coli* genome in the Beatson laboratory. I then spent 3 months volunteering in the Beatson lab part-time.
 
