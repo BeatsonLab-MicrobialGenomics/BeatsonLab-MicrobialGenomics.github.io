@@ -6,8 +6,8 @@ Leah Roberts
 
 .. image:: ../../images/Leah_pic.jpg
   :height: 100px
-  :width: 200 px
-  :scale: 50 %
+  :width: 200px
+  :scale: 50%
   :alt: Leah Roberts in Vietnam!
   :align: right
 
