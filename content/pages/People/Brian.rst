@@ -3,7 +3,7 @@
 
 Dr Brian Forde
 ==============
-.. image:: ../../../images/BrianForde.jpg
+.. image:: ../../images/BrianForde.jpg
    
 
 In October 2008 I began my PhD in the lab of Prof. Paul O' Toole at the department of Microbiology, University College Cork 
