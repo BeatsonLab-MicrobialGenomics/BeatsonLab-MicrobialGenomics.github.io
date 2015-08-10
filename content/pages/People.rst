@@ -20,8 +20,6 @@ Staff
 
 `Brian Forde <|filename|People/Brian.rst>`_ (Postdoctoral fellow)
 
-`Bryan Wee <|filename|People/Bryan.rst>`_
-
 Tom Robinson (IT consultant)
 
 
