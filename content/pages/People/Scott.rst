@@ -4,7 +4,7 @@
 Associate Professor Scott Beatson
 ================
 
-.. image:: ../../../images/scottcropped.jpg
+.. image:: ../../../images/scottcropped.jpg?raw=true
 
 Scott Beatson an Associate Professor and group leader at The University of Queensland. He is based in the School of Chemistry and Molecular Biosciences and is a member of the Australian Infectious Diseases Research Centre.  Together with a talented team of microbiologists and bioinformaticians has developed a research program that exploits Next-Generation Sequencing data to investigate the evolution and virulence of medically important bacterial pathogens.
 
