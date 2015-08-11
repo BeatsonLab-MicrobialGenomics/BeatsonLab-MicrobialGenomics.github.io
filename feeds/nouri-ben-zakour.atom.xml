@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Beatson Microbial Genomics Lab</title><link href="/" rel="alternate"></link><link href="/feeds/nouri-ben-zakour.atom.xml" rel="self"></link><id>/</id><updated>2014-02-12T10:30:00+10:00</updated><entry><title>R scripts dedicated to statistical analysis of distribution of distances using various graphical representations and non-parametric tests</title><link href="/didt-dist.html" rel="alternate"></link><updated>2014-02-12T10:30:00+10:00</updated><author><name>Nouri Ben Zakour</name></author><id>tag:,2014-02-12:didt-dist.html</id><summary type="html">&lt;p&gt;We point you to the &lt;a class="reference external" href="https://github.com/nbenzakour/DistanceDistributionAnalysis"&gt;DistanceDistributionAnalysis&lt;/a&gt; repository.&lt;/p&gt;
+&lt;p&gt;Scripts available:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+distri-difference-generic.R: available now - still requires a bit of editing
+distri-difference-ks-test_example-1.R: adapted to a particular case
+&lt;/pre&gt;
+&lt;p&gt;Figures available:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+distri-difference-ks-test_example-1_Figure.tif
+&lt;/pre&gt;
+&lt;div class="section" id="strategy"&gt;
+&lt;h2&gt;Strategy&lt;/h2&gt;
+&lt;p&gt;Considering the set of observed distances between 2 categories of
+genomic regions (i.e., CAT1 and CAT2), we want to evaluate if they are
+genetically linked or associated (biased towards being found closer than
+expected by chance). In other words, if the positions of CAT1 are random with
+respect to CAT2, the distribution of distances [CAT1-CAT2] should follow
+a uniform distribution.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="steps"&gt;
+&lt;h2&gt;Steps&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;considers the observed distribution of N distances between CAT1 and CAT2&lt;/li&gt;
+&lt;li&gt;generates a random list of N distances in the same space of potential
+distances. The expected distribution should be uniform.&lt;/li&gt;
+&lt;li&gt;creates a number of representations to visualise the 2 distributions
+profiles, including: frequency histograms density plots cumulative
+frequency plots boxplots qqplots...&lt;/li&gt;
+&lt;li&gt;tests whether the distributions are significantly different or not.
+Non-parametric methods are used here, considering that a normal
+distribution cannot be assumed for the data, especially as the second
+object is already known to be uniform. Also determine the direction of
+the shift if there is one and if possible e.g determine the negative
+skew of the observed distances.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</summary></entry></feed>
