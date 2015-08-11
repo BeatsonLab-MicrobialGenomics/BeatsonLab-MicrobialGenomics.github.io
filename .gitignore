@@ -10,3 +10,4 @@ output/
 .idea/*
 pelican.pid
 srv.pid
+.ropeproject/
