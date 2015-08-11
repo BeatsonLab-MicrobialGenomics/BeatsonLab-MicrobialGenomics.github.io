@@ -100,7 +100,9 @@ We have ongoing projects to study the the following organisms:
     * Group A and Group B *Streptococcus*
     * *Mycobacterium tuberculosis*
 
-`More information on projects <|filename|Projects.rst>`
+`More information on projects`_
 
 Please contact Scott directly (scott dot beatson at uq.edu.au) to enquire about specific opportunities 
 for Undergraduate, Masters, Honours or PHD projects at The University of Queensland.
+
+.. _`More information on projects`: http://beatsonlab.com/pages/projects.html
