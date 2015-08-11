@@ -56,13 +56,12 @@ Mohamed Bulushi
 Visitors
 --------
 
-`Professor Iain Lamont <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/>`_, Otago University
+`Iain Lamont`_ (Otago University)
 
-
-.. Volunteers
+Volunteers
 ----------
 
-.. Nil.
+Nil.
 
 
 Former group members
@@ -120,6 +119,7 @@ Majed Al Ghoribi (via Mat Upton)
 
 `Nick Loman`_
 
+.. _`Iain Lamont`: <http://biochem.otago.ac.nz/our-people/academic-teaching-staff/iain-lamont/
 .. _`David Gally`: http://www.roslin.ed.ac.uk/david-gally/
 .. _`Mat Upton`: http://www.plymouth.ac.uk/staff/mupton
 .. _`Ian Henderson`: http://www.birmingham.ac.uk/staff/profiles/iandi/henderson-ian.aspx
