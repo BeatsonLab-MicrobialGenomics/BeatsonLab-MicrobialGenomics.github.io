@@ -1,6 +1,3 @@
-:url: pages/MitchS
-:save_as: pages/MitchS.html
-
 Mitchell Sullivan
 =================
 

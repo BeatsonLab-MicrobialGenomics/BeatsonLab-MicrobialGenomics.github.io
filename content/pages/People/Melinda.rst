@@ -1,6 +1,3 @@
-:url: pages/Melinda
-:save_as: pages/Melinda.html
-
 Melinda Ashcroft
 ================
 

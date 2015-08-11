@@ -1,6 +1,3 @@
-:url: pages/Brian
-:save_as: pages/Brian.html
-
 Dr Brian Forde
 ==============
 .. image:: ../../images/BrianForde.jpg

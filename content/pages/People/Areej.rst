@@ -1,6 +1,3 @@
-:url: pages/Areej
-:save_as: pages/Areej.html
-
 Areej Alsheikh-Hussain
 ======================
 

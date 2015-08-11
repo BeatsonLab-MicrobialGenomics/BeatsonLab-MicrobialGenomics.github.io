@@ -1,7 +1,3 @@
-:url: pages/Nouri
-:save_as: pages/Nouri.html
-
-
 Dr Nouri L Ben Zakour
 =====================
 

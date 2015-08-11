@@ -1,6 +1,3 @@
-:url: pages/Bryan
-:save_as: pages/Bryan.html
-
 Bryan Wee
 =========
 

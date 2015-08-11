@@ -1,6 +1,3 @@
-:url: pages/Nabil
-:save_as: pages/Nabil.html
-
 Nabil-Fareed Alikhan
 ====================
 

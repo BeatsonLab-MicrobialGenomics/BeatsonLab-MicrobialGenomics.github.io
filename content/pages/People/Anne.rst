@@ -1,6 +1,3 @@
-:url: pages/Anne
-:save_as: pages/Anne.html
-
 Anne Senabouth
 ==============
 

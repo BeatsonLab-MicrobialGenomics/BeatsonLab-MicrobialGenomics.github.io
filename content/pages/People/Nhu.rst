@@ -1,6 +1,3 @@
-:url: pages/Nhu
-:save_as: pages/Nhu.html
-
 Nhu Nguyen Thi Khanh
 ====================
 

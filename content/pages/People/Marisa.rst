@@ -1,6 +1,3 @@
-:url: pages/Marisa
-:save_as: pages/Marisa.html
-
 Marisa Emerson
 ==============
 

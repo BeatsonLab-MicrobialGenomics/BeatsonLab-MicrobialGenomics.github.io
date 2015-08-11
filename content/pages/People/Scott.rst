@@ -1,6 +1,3 @@
-:url: pages/Scott
-:save_as: pages/Scott.html
-
 Associate Professor Scott Beatson
 =================================
 

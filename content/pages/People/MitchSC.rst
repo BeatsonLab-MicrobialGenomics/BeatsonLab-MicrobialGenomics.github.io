@@ -1,8 +1,5 @@
-:url: pages/MitchSC                                                  
-:save_as: pages/MitchSC.html
-
-Mr Mitchell Stanton-Cook
-========================
+Mitchell Stanton-Cook
+=====================
 
 Mitchell’s studies at the University of Queensland resulted in a Bachelor of
 Science (Bioinformatics) and a Honours degree (Biochemistry). Mitchell’s spent

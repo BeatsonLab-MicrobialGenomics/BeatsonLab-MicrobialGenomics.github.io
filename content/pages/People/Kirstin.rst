@@ -1,6 +1,3 @@
-:url: pages/Kirstin                                                  
-:save_as: pages/Kirstin.html
-
 Kirstin Hanks
 =============
 
