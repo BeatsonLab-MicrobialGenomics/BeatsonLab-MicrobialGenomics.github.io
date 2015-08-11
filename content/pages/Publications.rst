@@ -1,16 +1,101 @@
 Publications
 ============
 
-These were automatically extracted from PubMed on Wed Mar  5 15:06:41 2014
+These were automatically extracted from PubMed on Tue Aug 11 13:31:05 2015
 
-Total publications for SA Beatson: **68**
+Total publications for SA Beatson: **85**
 
 Chronologically sorted:
 
-| **68.** uPEPperoni: an online tool for upstream open reading frame location and analysis of transcript conservation.
+| **85.** Third-generation cephalosporin resistance conferred by a chromosomally encoded blaCMY-23 gene in the Escherichia coli ST131 reference strain EC958.
+| Phan MD, Peters KM, Sarkar S, Forde BM, Lo AW, Stanton-Cook M, Roberts LW, Upton M, Beatson SA, Schembri MA
+| J Antimicrob Chemother. 2015 Jul;70(7):1969-72. doi: 10.1093/jac/dkv066. Epub 2015 Mar 18.
+| http://www.ncbi.nlm.nih.gov/pubmed/25786480
+|
+| **84.** Molecular Characterization of the Multidrug Resistant Escherichia coli ST131 Clone.
+| Schembri MA, Zakour NL, Phan MD, Forde BM, Stanton-Cook M, Beatson SA
+| Pathogens. 2015 Jun 26;4(3):422-30. doi: 10.3390/pathogens4030422.
+| http://www.ncbi.nlm.nih.gov/pubmed/26131613
+|
+| **83.** The co-transcriptome of uropathogenic Escherichia coli-infected mouse macrophages reveals new insights into host-pathogen interactions.
+| Mavromatis CH, Bokil NJ, Totsika M, Kakkanat A, Schaale K, Cannistraci CV, Ryu T, Beatson SA, Ulett GC, Schembri MA, Sweet MJ, Ravasi T
+| Cell Microbiol. 2015 May;17(5):730-46. doi: 10.1111/cmi.12397. Epub 2015 Jan 24.
+| http://www.ncbi.nlm.nih.gov/pubmed/25410299
+|
+| **82.** Molecular analysis of asymptomatic bacteriuria Escherichia coli strain VR50 reveals adaptation to the urinary tract by gene acquisition.
+| Beatson SA, Ben Zakour NL, Totsika M, Forde BM, Watts RE, Mabbett AN, Szubert JM, Sarkar S, Phan MD, Peters KM, Petty NK, Alikhan NF, Sullivan MJ, Gawthorne JA, Stanton-Cook M, Nhu NT, Chong TM, Yin WF, Chan KG, Hancock V, Ussery DW, Ulett GC, Schembri MA
+| Infect Immun. 2015 May;83(5):1749-64. doi: 10.1128/IAI.02810-14. Epub 2015 Feb 9.
+| http://www.ncbi.nlm.nih.gov/pubmed/25667270
+|
+| **81.** Draft Genome Sequence of Pseudomonas fluorescens SRM1, an Isolate from Spoiled Raw Milk.
+| Lo R, Stanton-Cook MJ, Beatson SA, Turner MS, Bansal N
+| Genome Announc. 2015 Mar 19;3(2). pii: e00138-15. doi: 10.1128/genomeA.00138-15.
+| http://www.ncbi.nlm.nih.gov/pubmed/25792057
+|
+| **80.** The host metabolite D-serine contributes to bacterial niche specificity through gene selection.
+| Connolly JP, Goldstone RJ, Burgess K, Cogdell RJ, Beatson SA, Vollmer W, Smith DG, Roe AJ
+| ISME J. 2015 Mar 17;9(4):1052. doi: 10.1038/ismej.2015.17.
+| http://www.ncbi.nlm.nih.gov/pubmed/25777575
+|
+| **79.** The host metabolite D-serine contributes to bacterial niche specificity through gene selection.
+| Connolly JP, Goldstone RJ, Burgess K, Cogdell RJ, Beatson SA, Vollmer W, Smith DG, Roe AJ
+| ISME J. 2015 Mar 17;9(4):1039-51. doi: 10.1038/ismej.2014.242.
+| http://www.ncbi.nlm.nih.gov/pubmed/25526369
+|
+| **78.** Molecular characterization of a multidrug resistance IncF plasmid from the globally disseminated Escherichia coli ST131 clone.
+| Phan MD, Forde BM, Peters KM, Sarkar S, Hancock S, Stanton-Cook M, Ben Zakour NL, Upton M, Beatson SA, Schembri MA
+| PLoS One. 2015 Apr 15;10(4):e0122369. doi: 10.1371/journal.pone.0122369. eCollection 2015.
+| http://www.ncbi.nlm.nih.gov/pubmed/25875675
+|
+| **77.** The Intimin-Like Protein FdeC Is Regulated by H-NS and Temperature in Enterohemorrhagic Escherichia coli.
+| Easton DM, Allsopp LP, Phan MD, Moriel DG, Goh GK, Beatson SA, Mahony TJ, Cobbold RN, Schembri MA
+| Appl Environ Microbiol. 2014 Dec 1;80(23):7337-47. doi: 10.1128/AEM.02114-14. Epub 2014 Sep 19.
+| http://www.ncbi.nlm.nih.gov/pubmed/25239893
+|
+| **76.** Mutual exclusivity of hyaluronan and hyaluronidase in invasive group A Streptococcus.
+| Henningham A, Yamaguchi M, Aziz RK, Kuipers K, Buffalo CZ, Dahesh S, Choudhury B, Van Vleet J, Yamaguchi Y, Seymour LM, Ben Zakour NL, He L, Smith HV, Grimwood K, Beatson SA, Ghosh P, Walker MJ, Nizet V, Cole JN
+| J Biol Chem. 2014 Nov 14;289(46):32303-15. doi: 10.1074/jbc.M114.602847. Epub 2014 Sep 29.
+| http://www.ncbi.nlm.nih.gov/pubmed/25266727
+|
+| **75.** Microbiology. Tracking antibiotic resistance.
+| Beatson SA, Walker MJ
+| Science. 2014 Sep 19;345(6203):1454-5. doi: 10.1126/science.1260471.
+| http://www.ncbi.nlm.nih.gov/pubmed/25237090
+|
+| **74.** Exploiting the explosion of information associated with whole genome sequencing to tackle Shiga toxin-producing Escherichia coli (STEC) in global food production systems.
+| Franz E, Delaquis P, Morabito S, Beutin L, Gobius K, Rasko DA, Bono J, French N, Osek J, Lindstedt BA, Muniesa M, Manning S, LeJeune J, Callaway T, Beatson S, Eppinger M, Dallman T, Forbes KJ, Aarts H, Pearl DL, Gannon VP, Laing CR, Strachan NJ
+| Int J Food Microbiol. 2014 Sep 18;187:57-72. doi: 10.1016/j.ijfoodmicro.2014.07.002. Epub 2014 Jul 11.
+| http://www.ncbi.nlm.nih.gov/pubmed/25051454
+|
+| **73.** The metabolic enzyme AdhE controls the virulence of Escherichia coli O157:H7.
+| Beckham KS, Connolly JP, Ritchie JM, Wang D, Gawthorne JA, Tahoun A, Gally DL, Burgess K, Burchmore RJ, Smith BO, Beatson SA, Byron O, Wolfe AJ, Douce GR, Roe AJ
+| Mol Microbiol. 2014 Jul;93(1):199-211. doi: 10.1111/mmi.12651. Epub 2014 Jun 9.
+| http://www.ncbi.nlm.nih.gov/pubmed/24846743
+|
+| **72.** Genome analysis and CRISPR typing of Salmonella enterica serovar Virchow.
+| Bachmann NL, Petty NK, Ben Zakour NL, Szubert JM, Savill J, Beatson SA
+| BMC Genomics. 2014 May 21;15:389. doi: 10.1186/1471-2164-15-389.
+| http://www.ncbi.nlm.nih.gov/pubmed/24885207
+|
+| **71.** Global dissemination of a multidrug resistant Escherichia coli clone.
+| Petty NK, Ben Zakour NL, Stanton-Cook M, Skippington E, Totsika M, Forde BM, Phan MD, Gomes Moriel D, Peters KM, Davies M, Rogers BA, Dougan G, Rodriguez-Bano J, Pascual A, Pitout JD, Upton M, Paterson DL, Walsh TR, Schembri MA, Beatson SA
+| Proc Natl Acad Sci U S A. 2014 Apr 15;111(15):5694-9. doi: 10.1073/pnas.1322678111. Epub 2014 Mar 31.
+| http://www.ncbi.nlm.nih.gov/pubmed/24706808
+|
+| **70.** uPEPperoni: an online tool for upstream open reading frame location and analysis of transcript conservation.
 | Skarshewski A, Stanton-Cook M, Huber T, Al Mansoori S, Smith R, Beatson SA, Rothnagel JA
 | BMC Bioinformatics. 2014 Feb 1;15:36. doi: 10.1186/1471-2105-15-36.
 | http://www.ncbi.nlm.nih.gov/pubmed/24484385
+|
+| **69.** The complete genome sequence of Escherichia coli EC958: a high quality reference sequence for the globally disseminated multidrug resistant E. coli O25b:H4-ST131 clone.
+| Forde BM, Ben Zakour NL, Stanton-Cook M, Phan MD, Totsika M, Peters KM, Chan KG, Schembri MA, Upton M, Beatson SA
+| PLoS One. 2014 Aug 15;9(8):e104400. doi: 10.1371/journal.pone.0104400. eCollection 2014.
+| http://www.ncbi.nlm.nih.gov/pubmed/25126841
+|
+| **68.** Galleria mellonella infection model demonstrates high lethality of ST69 and ST127 uropathogenic E. coli.
+| Alghoribi MF, Gibreel TM, Dodgson AR, Beatson SA, Upton M
+| PLoS One. 2014 Jul 25;9(7):e101547. doi: 10.1371/journal.pone.0101547. eCollection 2014.
+| http://www.ncbi.nlm.nih.gov/pubmed/25061819
 |
 | **67.** Molecular analysis of the Acinetobacter baumannii biofilm-associated protein.
 | Goh HM, Beatson SA, Totsika M, Moriel DG, Phan MD, Szubert J, Runnegar N, Sidjabat HE, Paterson DL, Nimmo GR, Lipman J, Schembri MA
@@ -57,7 +142,7 @@ Chronologically sorted:
 | PLoS Genet. 2013;9(10):e1003834. doi: 10.1371/journal.pgen.1003834. Epub 2013 Oct 3.
 | http://www.ncbi.nlm.nih.gov/pubmed/24098145
 |
-| **58.** A Distinct and Divergent Lineage of Genomic Island-Associated Type IV Secretion Systems inLegionella.
+| **58.** A distinct and divergent lineage of genomic island-associated Type IV Secretion Systems in Legionella.
 | Wee BA, Woolfit M, Beatson SA, Petty NK
 | PLoS One. 2013 Dec 16;8(12):e82221. doi: 10.1371/journal.pone.0082221. eCollection 2013.
 | http://www.ncbi.nlm.nih.gov/pubmed/24358157
