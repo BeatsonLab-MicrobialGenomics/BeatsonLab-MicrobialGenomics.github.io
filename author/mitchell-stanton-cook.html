@@ -1,22 +1,25 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:og="http://ogp.me/ns#"
-      xmlns:fb="https://www.facebook.com/2008/fbml">
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
     <title>Articles by Mitchell Stanton-Cook - Beatson Microbial Genomics Lab</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
+
     <link href="/images/favicon.png" rel="icon">
+
+
+        <meta name="author" content="Beatson Group" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="Beatson Microbial Genomics Lab" />
-            <meta property="og:type" content="website"/>
-            <meta property="og:title" content="Beatson Microbial Genomics Lab"/>
-            <meta property="og:url" content=""/>
-            <meta property="og:description" content="Beatson Microbial Genomics Lab"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Beatson Microbial Genomics Lab"/>
+        <meta property="og:url" content=""/>
+        <meta property="og:description" content="Beatson Microbial Genomics Lab"/>
+
 
     <!-- Bootstrap -->
         <link rel="stylesheet" href="/theme/css/bootstrap.yeti.min.css" type="text/css"/>
@@ -26,11 +29,14 @@
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
 
 
+
+
+
 </head>
 <body>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
+	<div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -105,17 +111,17 @@ Beatson Microbial Genomics Lab            </a>
                           </a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
-
+<!-- Banner -->
+<!-- End Banner -->
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
-
             <article>
                 <h2><a href="/site-launch.html">Beatson Microbial Genomics Site Lanuch</a></h2>
                 <div class="summary"><p class="first last">Finally a site to be proud of.</p>
@@ -134,16 +140,18 @@ Beatson Microbial Genomics Lab            </a>
             <hr/>
 
         </div>
-        <div class="col-sm-3 well well-sm" id="sidebar">
+        <div class="col-sm-3" id="sidebar">
+            <aside>
 
-<aside>
-    <section>
-        <ul class="list-group list-group-flush">
-
-
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
 
 
-    <li class="list-group-item"><h4><i class="fa fa-github fa-lg"></i><span class="icon-label">Activity @GitHub</span></h4>
+
+
+
+
+    <li class="list-group-item"><h4><i class="fa fa-github fa-lg"></i><span class="icon-label">GitHub Repos</span></h4>
         <div id="gh_repos">
             <p class="list-group-item">Status updating...</p>
         </div>
@@ -177,11 +185,10 @@ Beatson Microbial Genomics Lab            </a>
         </li>
       </ul>
     </li>
-
-        </ul>
-    </section>
-
-</aside>        </div>
+    </ul>
+</section>
+            </aside>
+        </div>
     </div>
 </div>
 <footer>
@@ -196,7 +203,7 @@ Beatson Microbial Genomics Lab            </a>
       </div>
    </div>
 </footer>
-<script src="http://code.jquery.com/jquery.js"></script>
+<script src="/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/theme/js/bootstrap.min.js"></script>
@@ -204,6 +211,7 @@ Beatson Microbial Genomics Lab            </a>
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="/theme/js/respond.min.js"></script>
 
+    <!-- GitHub JS -->
     <script type="text/javascript">
         $(document).ready(function () {
             if (!window.jXHR) {
@@ -223,6 +231,8 @@ Beatson Microbial Genomics Lab            </a>
         });
     </script>
     <script src="/theme/js/github.js" type="text/javascript"></script>
+    <!-- End GitHub JS Code -->
+    <!-- Google Analytics -->
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
@@ -237,7 +247,8 @@ Beatson Microbial Genomics Lab            </a>
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(ga, s);
         })();
-
     </script>
+    <!-- End Google Analytics Code -->
+
 </body>
 </html>
